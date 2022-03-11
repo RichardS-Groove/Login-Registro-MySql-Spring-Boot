@@ -1,4 +1,4 @@
-package soccergroup.LoginRegistroMySqlSpringBoot.entities;
+package soccergroup.LoginRegistroMySqlSpringBoot.Entity;
 
 import javax.persistence.*;
 import java.util.Collection;

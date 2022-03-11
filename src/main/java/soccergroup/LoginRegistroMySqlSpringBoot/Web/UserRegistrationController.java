@@ -1,7 +1,7 @@
-package soccergroup.LoginRegistroMySqlSpringBoot.web;
+package soccergroup.LoginRegistroMySqlSpringBoot.Web;
 
-import soccergroup.LoginRegistroMySqlSpringBoot.services.UserService;
-import soccergroup.LoginRegistroMySqlSpringBoot.web.dto.UserRegistrationDto;
+import soccergroup.LoginRegistroMySqlSpringBoot.Service.UserService;
+import soccergroup.LoginRegistroMySqlSpringBoot.Web.DTO.UserRegistrationDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;

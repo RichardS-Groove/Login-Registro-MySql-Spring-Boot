@@ -1,9 +1,9 @@
-package soccergroup.LoginRegistroMySqlSpringBoot.services;
+package soccergroup.LoginRegistroMySqlSpringBoot.Service;
 
-import soccergroup.LoginRegistroMySqlSpringBoot.entities.Role;
-import soccergroup.LoginRegistroMySqlSpringBoot.entities.User;
-import soccergroup.LoginRegistroMySqlSpringBoot.repositories.UserRepository;
-import soccergroup.LoginRegistroMySqlSpringBoot.web.dto.UserRegistrationDto;
+import soccergroup.LoginRegistroMySqlSpringBoot.Entity.Role;
+import soccergroup.LoginRegistroMySqlSpringBoot.Entity.User;
+import soccergroup.LoginRegistroMySqlSpringBoot.Repository.UserRepository;
+import soccergroup.LoginRegistroMySqlSpringBoot.Web.DTO.UserRegistrationDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

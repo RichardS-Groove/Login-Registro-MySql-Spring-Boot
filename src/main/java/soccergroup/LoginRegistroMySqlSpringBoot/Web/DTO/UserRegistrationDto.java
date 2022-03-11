@@ -1,4 +1,4 @@
-package soccergroup.LoginRegistroMySqlSpringBoot.web.dto;
+package soccergroup.LoginRegistroMySqlSpringBoot.Web.DTO;
 
 public class UserRegistrationDto {
 
